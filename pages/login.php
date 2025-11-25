@@ -179,7 +179,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 </head>
 <body>
     <div class="form-container">
-        <div class="logo">GahiWare Store</div>
+        <div class="logo">GahiWarePro</div>
         <div class="tagline">Quality Hardware Solutions</div>
         
         <h1>Login to Your Account</h1>
